@@ -1,0 +1,12 @@
+
+-----------COLOR CODE HEX-----------
+
+
+1.Black 
+2. White
+3.Shades of Orange....
+  a.Persimmon = #EB340D 
+ backgroundColor: Color(0xFFEB340D),
+ 
+  b.Vermilion = #F0420F
+  c.Crayola = #FF6914
