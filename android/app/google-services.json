@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822896895341",
+    "project_id": "photonicflux-4a550",
+    "storage_bucket": "photonicflux-4a550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822896895341:android:bbb4ce00fe4381621b6664",
+        "android_client_info": {
+          "package_name": "com.example.photonicflux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76p4ZxmrXKuzW5WHI33TawxtP24QP-3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
